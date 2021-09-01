@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/seubuntu/static/css/main.1b23a701.chunk.css",
+    "main.js": "/seubuntu/static/js/main.edaf0e06.chunk.js",
+    "main.js.map": "/seubuntu/static/js/main.edaf0e06.chunk.js.map",
+    "runtime-main.js": "/seubuntu/static/js/runtime-main.ef3bfdad.js",
+    "runtime-main.js.map": "/seubuntu/static/js/runtime-main.ef3bfdad.js.map",
+    "static/js/2.8ae0b79c.chunk.js": "/seubuntu/static/js/2.8ae0b79c.chunk.js",
+    "static/js/2.8ae0b79c.chunk.js.map": "/seubuntu/static/js/2.8ae0b79c.chunk.js.map",
+    "static/js/3.3c893af2.chunk.js": "/seubuntu/static/js/3.3c893af2.chunk.js",
+    "static/js/3.3c893af2.chunk.js.map": "/seubuntu/static/js/3.3c893af2.chunk.js.map",
+    "index.html": "/seubuntu/index.html",
+    "static/css/main.1b23a701.chunk.css.map": "/seubuntu/static/css/main.1b23a701.chunk.css.map",
+    "static/js/2.8ae0b79c.chunk.js.LICENSE.txt": "/seubuntu/static/js/2.8ae0b79c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef3bfdad.js",
+    "static/js/2.8ae0b79c.chunk.js",
+    "static/css/main.1b23a701.chunk.css",
+    "static/js/main.edaf0e06.chunk.js"
+  ]
+}
